@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Fullstack development using Java and TypeScript and learning C and Python<br>🎯 Goals: to became a backend developer<br>🎲 Fun fact: I collect vinyl</p>
+<p align="left">📚 I'm currently learning Fullstack development using Java and TypeScript, I'm also learning C and Python<br>🎯 Goals: to became a backend developer<br>🎲 Fun fact: I collect vinyl</p>
 
 ###
 
