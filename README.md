@@ -1,8 +1,8 @@
-<h1 align="left">Hello there 👋</h1>
+<h1 align="left">Hello there, I'm Anna 👋</h1>
 
 ###
 
-<p align="left">My name is Anna and I'm a fullstack developer from Brasil</p>
+<p align="left">Welcome to my GitHub. My name is Anna Vighi and I'm a fullstack developer from Brasil</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Fullstack development using Java and TypeScript, I'm also learning C and Python<br>🎯 Goals: to became a backend developer<br>🎲 Fun fact: I collect vinyl</p>
+<p align="left">📚 I'm currently learning Fullstack development using Java and TypeScript, I'm also learning C and Python.<br>🎯 Goals: to became a great back-end developer<br>🎲 Fun fact: I collect vinyl, books and fridge magnets from the places I visited.</p>
 
 ###
 
